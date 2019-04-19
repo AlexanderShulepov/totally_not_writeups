@@ -1,4 +1,3 @@
 Комическая тема из Смешариков в записи явно заглушает что-то не очень музыыкальное, но расслышать что-то внятное не получится.
-Чтобы узнать флаг, нужно посмотреть спектограмму звуковой дорожки, например, здесь:
-https://academo.org/demos/spectrum-analyzer/ 
-http://convert.ing-now.com/audio-spectrogram-creator/
+Чтобы узнать флаг, нужно посмотреть спектограмму звуковой дорожки, например, [здесь](https://academo.org/demos/spectrum-analyzer/) или [здесь](http://convert.ing-now.com/audio-spectrogram-creator/):
+
